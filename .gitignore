@@ -7,6 +7,9 @@
 /.angular/
 .angular/
 
+# VS Code
+.vscode/
+
 # Node modules and dependency files
 /node_modules/
 /package-lock.json
